@@ -1,13 +1,11 @@
 <h1 align="center">SPPU IT Study Material</h1>
 
 <p align='center'>
-  <a href="https://sppustudyhub.vercel.app">
     SPPU IT Study Hub
   </a>
 </p>
 
 
-**Join our Telegram group [here!](https://t.me/sppuinformationtechnology)**
 
 <hr>
 <p align='center'><img width="50%" src="https://www.parthsali.me/meme.png"></img></p>
